@@ -1,0 +1,19 @@
+{
+  "input_len": 1351,
+  "n_classes": 6,
+  "class_names": [
+    "AminoAcids",
+    "Lipids",
+    "NucleicAcids",
+    "PrimaryMetabolites",
+    "Proteins",
+    "Saccharides"
+  ],
+  "wavenumber_range": [
+    450,
+    1800
+  ],
+  "epochs": 80,
+  "best_val_acc": 1.0,
+  "test_acc": 1.0
+}
